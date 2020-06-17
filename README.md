@@ -2,7 +2,7 @@
 Anahid Bauer
 
 
-STATA-14 and older version of the Calculator for unemployment insurance benefits.  Based on the program designed by Peter Ganong, Pascal Noel, Peter Robertson and Joseph Vavra  
+STATA-14(or older) version of the Calculator for unemployment insurance benefits.  Based on the program designed by Peter Ganong, Pascal Noel, Peter Robertson and Joseph Vavra  
 
 This code enables you to calculate the level of weekly unemployment insurance (UI) benefits for every state based on an individual's quarterly earnings history. They use the python calculator in Ganong, Noel and Vavra (2020).  
 
